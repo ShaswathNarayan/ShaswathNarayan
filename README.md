@@ -44,8 +44,4 @@ A Spring Boot-based microservices system to manage pharmacy operations from back
 
 ---
 
-### 📊 GitHub Stats
-
-![Saswath's GitHub stats](https://github-readme-stats.vercel.app/api?username=ShaswathNarayan&show_icons=true&theme=react)
-
 ---
